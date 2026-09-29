@@ -1,4 +1,4 @@
-import random
+
 from random import choice
 def answer():
     answers = ["Бесспорно", "Мне кажется - да", "Пока неясно, попробуй снова", "Даже не думай",
